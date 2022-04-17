@@ -1,0 +1,37 @@
+.title {
+    color: blacK;
+    background-color: rgb(95, 174, 243);
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.recipes {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    list-style-position: inside;
+    font-size: 25px;
+}
+
+.recipes #rat {
+    background-color: rgb(26, 17, 138);
+    color: white;
+}
+
+.recipes #beignet {
+    background-color: rgb(16, 145, 27);
+    color: aliceblue;    
+}
+
+.recipes #souffle {
+    background-color: rgb(221, 138, 43);
+    color: aliceblue;
+}
+
+.disney {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    ;
+}
